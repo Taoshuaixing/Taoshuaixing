@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <br>
 
 <!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Taoshuaixing/Taoshuaixing/assets/202110311924844.png" /></div>
 <br>
 
 <!-- profile-3d-contrib -->
@@ -92,9 +92,9 @@ Here are some ideas to get you started:
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/Taoshuaixing/Taoshuaixing/assets/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taoshuaixing&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/Taoshuaixing/Taoshuaixing/assets/202108300312623.png" />
 </div>
 <br>
 
