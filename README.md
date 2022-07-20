@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&labelColor=fff&logoColor=000)
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-WebRTC-008000?style=flat-square&logo=WebRTC&labelColor=90EE90&color=fff)
-<!-- 访客数统计徽标 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Taoshuaixing.readme)
 
 <!-- 账号数据 -->
