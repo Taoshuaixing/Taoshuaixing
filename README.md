@@ -42,6 +42,34 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Taoshuaixing&theme=onedark&row=1" /> </div>
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Taoshuaixing&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taoshuaixing&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></div>
-<div align="center" dir="auto"><img src="https://camo.githubusercontent.com/74b4db719338b18b5479a5cdb5b9e86605b5a0e689de35b6206372111f2a9763/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f70726f66696c652d33642d636f6e747269622f70726f66696c652d6e696768742d7261696e626f772e737667" width="100%" data-canonical-src="https://cdn.jsdelivr.net/gh/Taoshuaixing/Taoshuaixing/profile-3d-contrib/profile-night-rainbow.svg" style="max-width: 100%;"></div>
-<img src="https://camo.githubusercontent.com/6d0807a19a969691c057a01844d93e97e6423ff29f84678ecac1a6e66afe1edd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" style="max-width: 100%;">
+
+
+<!-- Gif -->
+<div align="center">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+</div>
+
+<!-- just img -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+
+<!-- profile-3d-contrib -->
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/Taoshuaixing/Taoshuaixing/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+
+
+# 🚀 Actions
+
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taoshuaixing&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</div>
+<br>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Taoshuaixing&theme=xcode" /> </div>
