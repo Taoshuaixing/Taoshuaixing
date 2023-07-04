@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 <!-- 个人资料 -->
 :sunny:关于我
 
-:city_sunrise:热爱分享：<a href="http//www.asing.club" target="_blank">公众号</a>
+<!-- :city_sunrise:热爱分享：<a href="http//www.asing.club" target="_blank">公众号</a>-->
 
-:boy:个人网站：<a href="http://www.asing.club" target="_blank">点我跳转</a>
+:boy:个人网站：<a href="http://www.tsxweb.cn" target="_blank">点我跳转</a>
 
-![](https://img.shields.io/badge/-juejin-43853d)    <a href="https://juejin.cn/user/1412191054738446" target="_blank">掘金</a>
+<!-- ![](https://img.shields.io/badge/-juejin-43853d)    <a href="https://juejin.cn/user/1412191054738446" target="_blank">掘金</a>
 
 ![](https://img.shields.io/badge/-zhihu-1572B6?style=flat-square&logo=zhihu&logoColor=white)    <a href="https://www.zhihu.com/people/lin-shen-shi-mi-lu" target="_blank">知乎</a>
 
-![](https://img.shields.io/badge/-github-29beb0?style=flat-square&logo=github&logoColor=white)    <a href="https://www.github.com/Taoshuaixing" target="_blank">GitHub</a>
+![](https://img.shields.io/badge/-github-29beb0?style=flat-square&logo=github&logoColor=white)    <a href="https://www.github.com/Taoshuaixing" target="_blank">GitHub</a>-->
 
 :point_right:持续关注的技术:<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
