@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 我喜欢追逐创意，生活中我会花很多时间去观察和使用一些优秀的产品应用，从中学习他们获得成功的经验，并以此激发我的创作灵感。
 
-想了解我更多吗？来我的 [个人网站 · 作品集](http://tsxweb.cn) 逛逛吧 🙆🏻‍♂️。
+想了解我更多吗？来我的 [个人网站 · 作品集](http://www.tsxweb.cn/) 逛逛吧 🙆🏻‍♂️。
 <!-- 个人资料 -->
 :sunny:关于我
 
 <!-- :city_sunrise:热爱分享：<a href="http//www.asing.club" target="_blank">公众号</a>-->
 
-:boy:个人网站：<a href="http://www.tsxweb.cn" target="_blank">点我跳转</a>
+:boy:个人网站：<a href="http://www.tsxweb.cn/" target="_blank">点我跳转</a>
 
 <!-- ![](https://img.shields.io/badge/-juejin-43853d)    <a href="https://juejin.cn/user/1412191054738446" target="_blank">掘金</a>
 
